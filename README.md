@@ -9,6 +9,10 @@ row.
 StickyGridHeaders has been designed to be adapter compatible with, and was
 inspired by, [StickyListHeaders](http://github.com/emilsjolander/StickyListHeaders).
 
+例子参见:http://blog.csdn.net/xiaanming/article/details/20481185
+
+
+
 ## Roadmap
 
 Version 1.0.1 has been released!
